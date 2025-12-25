@@ -1,0 +1,5 @@
+1001|John Doe|IT|55000.00|Software Developer|password123
+1002|Sarah Johnson|HR|62000.00|HR Manager|password123
+1003|Michael Chen|Finance|58000.00|Financial Analyst|password123
+1004|Emily Williams|Marketing|54000.00|Marketing Lead|password123
+1005|David Brown|IT|52000.00|System Administrator|password123
